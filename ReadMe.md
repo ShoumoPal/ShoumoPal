@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://soumyadippal.weebly.com"><img src="https://img.shields.io/badge/Portfolio-Website-blue"></a>
-  <a href="arka.pal21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact me-9cf"></a>
   <a href="https://www.linkedin.com/in/soumyadip-pal-353383146/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5"></a>
 </p>
 
