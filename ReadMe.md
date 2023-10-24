@@ -44,7 +44,7 @@ Here are a few projects I've been working on:
    - [GitHub Repository](https://github.com/ShoumoPal/Show-Ko-Ban)
 
 3. **Chest System**
-   - Description: A chest system clone from CLash Royale
+   - Description: A chest system clone from Clash Royale
    - [GitHub Repository](https://github.com/ShoumoPal/ChestSystem)
 
 ### 🌟 GitHub Stats
