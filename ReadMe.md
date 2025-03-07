@@ -5,7 +5,7 @@
 <h1 align="center">Hello, I'm Soumyadip Pal 👋</h1>
 
 <p align="center">
-  Game Developer | Problem Solver
+  Software Engineer | Game Dev | Problem Solver
 </p>
 
 <p align="center">
