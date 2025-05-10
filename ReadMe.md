@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://soumyadippal.weebly.com"><img src="https://img.shields.io/badge/Portfolio-Website-blue"></a>
+  <!-- <a href="https://soumyadippal.weebly.com"><img src="https://img.shields.io/badge/Portfolio-Website-blue"></a> -->
   <a href="https://www.linkedin.com/in/soumyadip-pal-353383146/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5"></a>
 </p>
 
@@ -17,19 +17,19 @@
 
 ### 🚀 About Me
 
-I'm a passionate game developer with a strong love for creating immersive gaming experiences. I thrive on challenges and am constantly pushing the boundaries of what's possible in the world of game development.
+I'm a software engineer with 3.5+ years of experience, currently transitioning from XR/game development into software engineering.
 
-- 🎮 Unity is my playground, and I'm always exploring its latest features.
-- 💡 I love brainstorming and solving complex game design problems.
-- 🌟 Creating visually stunning and engaging games is my forte.
+- 🧠 Passionate about building efficient, scalable systems using Python, C++ and C#.
+- 🧩 Strong problem solver with a deep interest in data structures, algorithms, and distributed systems.
+- 🕹️ Game development background adds creative and performance-oriented thinking to my engineering toolkit.
+- 💡 Constantly learning and growing, currently exploring concurrency, low-level systems, and networking.
 
-### 🔧 My Skills
+### 🔧 Core Skills
 
-- Unity3D
-- C# Programming
-- Game Design
-- 2D & 3D Game Development
-- C++ programming
+- **Languages:** Python, C++, C#
+- **Backend:** REST APIs, Load Balancers, Health Checks
+- **Systems:** Multi-threading, Asynchronous Programming, Data Structures & Algorithms
+- **Tools:** Git, Docker, Unity3D, VS Code
 
 ### 🕹️ My Projects
 
