@@ -43,9 +43,9 @@ Here are a few projects I've been working on:
    - Description: A 2D tile-based puzzle game taking inspiration from the famous 'Sokoban' game
    - [GitHub Repository](https://github.com/ShoumoPal/Show-Ko-Ban)
 
-3. **Chest System**
-   - Description: A chest system clone from Clash Royale
-   - [GitHub Repository](https://github.com/ShoumoPal/ChestSystem)
+3. **Smart Document Vault**
+   - Description: A FastAPI application using PostgreSQL as a database and with Huggingface transformers for keyword generation
+   - [GitHub Repository](https://github.com/ShoumoPal/Smart_Document_Vault)
 
 ### 🌟 GitHub Stats
 
